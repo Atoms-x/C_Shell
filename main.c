@@ -106,7 +106,7 @@ void display(int argc)
   {
     printf("*%s    Batch Mode                                                                             %s*\n",w,g);
   }
-  printf("*%s    by Sgt.Rock                                                                            %s*\n",w,g);
+  printf("*%s    by Chet Lockwood                                                                            %s*\n",w,g);
   printf("*                                                                                           *\n");
   printf("* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\n");
     
