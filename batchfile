@@ -1,0 +1,13 @@
+date ;  cal 9 1752
+ls -l ; ; pwd ; cd ; pwd ; cd test ; ls | wc ; skjsdsf
+ls -l; cat file1 ; whereis ls ; ps u
+; ; ;
+ls -l; grep NULL piping.c
+du -a | sort -n -r | head -n 10 ;cd ..; pwd
+pstree ; groups ; whoami ; who ; who | sort
+ps u ; ps --help ; file batchfile ; ;
+more file1 | grep file ; which ls ; ps -ef | grep bash
+ls | tail -5 > ls.out ;
+ls
+find . -name "pip*" -print ; df -h
+ls ; free -h ; uname -a ; grep 4 piping.cls -l; exit; whereis ls ; ps u
