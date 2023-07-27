@@ -1,7 +1,7 @@
 //***************************************************************
 // Chet Lockwood
 // Last Update: 25 NOV 2020
-// Description: Custom Shell Program
+// Description: Custom C Shell Program
 //***************************************************************
 
 #include <stdio.h>
