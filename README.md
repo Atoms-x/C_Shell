@@ -1,11 +1,9 @@
 <p align="center">
-  <img alt="C_Shell" src="https://github.com/SgtR0ck/C_Shell/assets/8111664/155a8f56-82e9-423e-8db0-1bec68ecc6d6"
+  <img alt="C_Shell" src="https://github.com/SgtR0ck/C_Shell/assets/8111664/e9c828ef-2ae7-435f-9cf0-be856ef51830"
 </p>
 <h1 align="center"> 
   C Shell 
 </h1>
-
-
 
 <p align="center">
   <a href="https://github.com/SgtR0ck/City_Simulator">
