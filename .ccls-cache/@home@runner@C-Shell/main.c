@@ -17,11 +17,11 @@
 
 #define clearScreen() printf("\033[2J\033[1;1H")  //Clear screen ASCII escape code
 #define clearLine() printf("\33[2K\r")        //Clear current line ASCII escape code
-#define c "\033[96m"
+#define c "\033[38;5;44m"
 #define g "\033[92m"
-#define y "\033[93m"
-#define b "\033[94m"
-#define r "\033[91m"
+#define y "\033[38;5;226m"
+#define b "\033[38;5;75m"
+#define r "\033[38;5;196m"
 #define dr "\033[31m"
 #define w "\033[0m"
 
@@ -99,7 +99,7 @@ void display(int argc)
   printf("*%s      \\/_/   \\/_/\\/_/   \\/_____/      \\/_____/   \\/_/\\/_/   \\/_____/   \\/_____/   \\/_____/ %s*\n",r,g);
   printf("*                                                                                           *\n");
   printf("*%s                              *** CUSTOM SHELL PROGRAM ***                                 %s*\n",w,g);
-  printf("*%s    version 1.0                                                                            %s*\n",w,g);
+  printf("*%s    version 1.0.0                                                                          %s*\n",w,g);
   if(batchMode != 1) 
     printf("*%s    Interactive Mode                                                                       %s*\n",w,g);
   else

@@ -1,1 +1,2 @@
 cat test.txt ; ls -l ; cat test.txt | grep a | cut -b 1,2,3
+date ;  cal 9 1752
