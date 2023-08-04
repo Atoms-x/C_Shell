@@ -23,6 +23,7 @@
     - [Formatting](#formatting)
     - [Running Batch Mode](#running-batch-mode)
     - [Running Interactive Mode](#running-interactive-mode)
+  - [Additional Features](#additional-features)
   - [Authors](#authors)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
