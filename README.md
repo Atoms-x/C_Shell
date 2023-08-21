@@ -104,7 +104,7 @@ and watch the outcome
 
 ## Authors
 
-* **Chet Lockwood** - [SgtR0ck](https://github.com/SgtR0ck)
+* **Chet Lockwood** - [Atoms-x](https://github.com/Atoms-x)
 
 ## License
 
